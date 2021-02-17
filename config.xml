@@ -1,0 +1,22 @@
+?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "comJustTraingles Android"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Just Triangles</name>
+
+  <description>
+      Just Triangles Androind app test
+  </description>
+
+  <author href="BSB PLAYZ ON YT" email="brahamben97@gmail.com">
+      Ben Braham
+  </author>
+
+<icon src="icon.png" />
+
+</widget>
